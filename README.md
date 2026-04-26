@@ -21,4 +21,4 @@ Backend system with stock entry, exit and transfer
 
 ## 📫 Contact
 - Email: benficachi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/benjamim-f-c-chimuco-81a0372a7
+- LinkedIn: https://www.linkedin.com/in/benjamim-chimuco-dev/
