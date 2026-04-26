@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Benjamim
 
-<!--
-**BenFiCaChi/BenFiCaChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on Node.js, TypeScript and APIs  
+📊 Experience with SQL Server and real-world systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+🔹 Stock Management API  
+Backend system with stock entry, exit and transfer  
+
+---
+
+## 🛠️ Tech Stack
+- Node.js | NestJS
+- TypeScript
+- Prisma ORM
+- MySQL
+
+---
+
+## 📫 Contact
+- Email: benficachi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/benjamim-f-c-chimuco-81a0372a7
